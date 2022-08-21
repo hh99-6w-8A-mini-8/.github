@@ -1,5 +1,8 @@
 # Coffee N Pasete Project
 ## Project Introduction
+### YOUTUBE
+[![Coffee N Paste](https://img.youtube.com/vi/hV9tPMfjEeU/0.jpg)](https://youtu.be/hV9tPMfjEeU)
+
 ### WHO
 #### 💻 Front-end developer ::: 
 - 🏆 **강태훈** [FE리더]
